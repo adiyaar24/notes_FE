@@ -2,6 +2,7 @@
 
 To start with the Notes App we will need to follow the below steps 
 
+s
 ## Steps
 - Step 1 : Clone this Repository
 - Step 2 : Lets start first by installing the required packages for this project . To make it easier we have a magical command that does this job for us . Here you go
